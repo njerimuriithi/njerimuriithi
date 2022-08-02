@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @njerimuriithi
-- 👀 I’m interested in CyberSecurity ,Cloud Technology and software development
-- 🌱 I’m currently learning React
+- 👀 I’m a software developer.
+- 🌱 I’m currently learning React , C# and Clouddevelopmet.
+- 🌱Interesed in Technical writing.
+ :: Follow, comment and read my blogs on https://dev.to/phoenixtech_254 or https://hashnode.com/@spicycodes
 - 💞️ I’m looking to collaborate with big technology companies that help to solve human problems
 - 📫 How to reach me at cnjeri388@gmail.com or nmuriithi58@gmail.com
 
